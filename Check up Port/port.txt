@@ -1,0 +1,419 @@
+0 
+1 tcpmux 
+3 
+4 
+5 rje 
+7 echo 
+9 discard 
+11 systat 
+13 daytime 
+15 netstat 
+17 qotd 
+18 send/rwp 
+19 chargen 
+20 ftp-data 
+21 ftp 
+22 ssh, pcAnywhere , SFTP
+23 Telnet 
+25 SMTP 
+27 ETRN 
+29 msg-icp 
+31 msg-auth 
+33 dsp 
+37 time 
+38 RAP 
+39 rlp 
+40 
+41 
+42 nameserv, WINS 
+43 whois, nickname 
+49 TACACS, Login Host Protocol 
+50 RMCP, re-mail-ck 
+53 DNS 
+57 MTP 
+59 NFILE 
+63 whois++ 
+66 sql*net 
+67 bootps 
+68 bootpd/dhcp 
+69 Trivial File Transfer Protocol (tftp) 
+70 Gopher 
+79 finger 
+80 www-http
+81 siteadmin on RAQ4
+87 
+88 Kerberos, WWW 
+95 supdup 
+96 DIXIE 
+98 linuxconf 
+101 HOSTNAME 
+102 ISO, X.400, ITOT 
+105 cso 
+106 poppassd 
+109 POP2 
+110 POP3 
+111 Sun RPC Portmapper 
+113 identd/auth 
+115 sftp 
+116 
+117 uucp 
+118 
+119 NNTP 
+120 CFDP 
+123 NTP 
+124 SecureID 
+129 PWDGEN 
+133 statsrv 
+135 loc-srv/epmap 
+137 netbios-ns 
+138 netbios-dgm (UDP) 
+139 NetBIOS 
+143 IMAP 
+144 NewS 
+150 
+152 BFTP 
+153 SGMP 
+156 
+161 SNMP 
+175 vmnet 
+177 XDMCP 
+178 NextStep Window Server 
+179 BGP 
+180 SLmail admin 
+199 smux 
+210 Z39.50 
+213 
+218 MPP 
+220 IMAP3 
+256 
+257 
+258 
+259 ESRO 
+264 FW1_topo 
+311 Apple WebAdmin 
+350 MATIP type A 
+351 MATIP type B 
+360 
+363 RSVP tunnel 
+366 ODMR (On-Demand Mail Relay) 
+371 
+387 AURP (AppleTalk Update-Based Routing Protocol) 
+389 LDAP 
+407 Timbuktu 
+427 
+434 Mobile IP 
+443 ssl 
+444 snpp, Simple Network Paging Protocol, RAQ550
+445 SMB 
+458 QuickTime TV/Conferencing 
+468 Photuris 
+475 
+500 ISAKMP, pluto 
+511 
+512 biff, rexec 
+513 who, rlogin 
+514 syslog, rsh 
+515 lp, lpr, line printer 
+517 talk 
+520 RIP (Routing Information Protocol) 
+521 RIPng 
+522 ULS 
+531 IRC 
+543 KLogin, AppleShare over IP 
+545 QuickTime 
+548 AFP 
+554 Real Time Streaming Protocol 
+555 phAse Zero 
+563 NNTP over SSL 
+575 VEMMI 
+581 Bundle Discovery Protocol 
+593 MS-RPC 
+608 SIFT/UFT 
+626 Apple ASIA 
+631 IPP (Internet Printing Protocol) 
+635 mountd 
+636 sldap 
+642 EMSD 
+648 RRP (NSI Registry Registrar Protocol) 
+655 tinc 
+660 Apple MacOS Server Admin 
+666 Doom 
+674 ACAP 
+687 AppleShare IP Registry 
+700 buddyphone 
+705 AgentX for SNMP 
+901 swat, realsecure 
+993 s-imap 
+995 s-pop 
+999 Urchin
+1024 
+1025 
+1050 
+1062 Veracity 
+1080 SOCKS 
+1085 WebObjects 
+1100 
+1105 
+1114 
+1227 DNS2Go 
+1234 
+1243 SubSeven 
+1338 Millennium Worm 
+1352 Lotus Notes 
+1381 Apple Network License Manager 
+1417 Timbuktu 
+1418 Timbuktu 
+1419 Timbuktu 
+1420 
+1433 Microsoft SQL Server 
+1434 Microsoft SQL Monitor 
+1477 
+1478 
+1490 
+1494 Citrix ICA Protocol 
+1498 
+1500 
+1503 T.120 
+1521 Oracle SQL 
+1522 
+1524 
+1525 prospero 
+1526 prospero 
+1527 tlisrv 
+1529 
+1547 
+1604 Citrix ICA, MS Terminal Server 
+1645 RADIUS Authentication 
+1646 RADIUS Accounting 
+1680 Carbon Copy 
+1701 L2TP/LSF 
+1717 Convoy 
+1720 H.323/Q.931 
+1723 PPTP control port 
+1731 
+1755 Windows Media .asf 
+1758 TFTP multicast 
+1761 
+1762 
+1808 
+1812 RADIUS server 
+1813 RADIUS accounting 
+1818 ETFTP 
+1968 
+1973 DLSw DCAP/DRAP 
+1975 
+1978 
+1979 
+1985 HSRP 
+1999 Cisco AUTH 
+2000 
+2001 glimpse 
+2005 
+2010 
+2023 
+2048 
+2049 NFS 
+2064 distributed.net 
+2065 DLSw 
+2066 DLSw 
+2080 
+2082 CPANEL - USER Control Panel - unsecure
+2083 CPANEL - USER Control Panel - Secure
+2086 CPANEL - WEBHOST / WHM - unsecure
+2087 CPANEL - WEBHOST / WHM - Secure
+2095 (cpanel webmail) - unsecure
+2096 (cpanel webmail) - secure
+2106 MZAP 
+2140 DeepThroat 
+2222 DirectAdmin
+2300 MSflightsim2002
+2301 Compaq Insight Management Web Agents 
+2327 Netscape Conference 
+2336 Apple UG Control 
+2345 
+2400 MSflightsim2002
+2427 MGCP gateway 
+2504 WLBS 
+2535 MADCAP 
+2543 sip 
+2565 
+2592 netrek 
+2727 MGCP call agent 
+2766 
+2628 DICT 
+2998 ISS Real Secure Console Service Port 
+3000 Firstclass 
+3001 
+3031 Apple AgentVU 
+3052 
+3128 squid 
+3130 ICP 
+3150 DeepThroat 
+3264 ccmail 
+3283 Apple NetAssitant 
+3288 COPS 
+3305 ODETTE 
+3306 mySQL 
+3352 
+3389 RDP Protocol (Terminal Server) 
+3520 
+3521 netrek 
+3782 Roger Wilco
+3879 
+4000 icq, command-n-conquer 
+4045 
+4144 
+4242 
+4321 rwhois 
+4333 mSQL 
+4444 
+47017 
+4827 HTCP 
+5000 
+5001 
+5002 
+5004 RTP 
+5005 RTP 
+5010 Yahoo! Messenger 
+5050 
+5060 SIP 
+5135 
+5150 
+5190 AIM 
+5222 
+5353 
+5400 
+5500 securid 
+5501 securidprop 
+5300 
+5423 Apple VirtualUser 
+5432 PostGres
+5555 
+5556 
+5631 PCAnywhere data 
+5632 PCAnywhere 
+5678 
+5800 VNC 
+5801 VNC 
+5900 VNC 
+5901 VNC 
+5843 
+6000 X Windows 
+6112 BattleNet 
+6050 
+6073 directplay8
+6499 
+6500 
+6502 Netscape Conference 
+6547 
+6548 
+6549 
+6666 
+6667 IRC 
+6670 VocalTec Internet Phone, DeepThroat 
+6699 napster 
+6776 Sub7 
+6968 
+6969 
+6970 RTP 
+6971 
+7000 
+7007 MSBD, Windows Media encoder 
+7070 RealServer/QuickTime 
+7161 
+7323 
+7777 
+7778 Unreal 
+7640 
+7648 CU-SeeMe 
+7649 CU-SeeMe 
+7654 
+7786 MiniVend
+8000 
+8002 
+8010 WinGate 2.1 
+8080 HTTP 
+8100 
+8181 HTTP 
+8383 IMail WWW 
+8443 Plesk
+8765 
+8875 napster 
+8888 napster 
+8890 
+9000 
+9090 
+9200 
+9704 
+9669 
+9876 
+9989 
+10000 Webmin
+10008 cheese worm 
+10752 
+12345 
+11371 PGP 5 Keyserver 
+12346 
+13000 
+13223 PowWow 
+13224 PowWow 
+14000 
+14237 Palm 
+14238 Palm 
+14690 
+16969 
+18888 LiquidAudio 
+19638 ensim
+21157 Activision 
+22555 
+22703 
+22793 
+23213 PowWow 
+23214 PowWow 
+23456 EvilFTP 
+26000 Quake 
+27000 
+27001 QuakeWorld 
+27010 Half-Life 
+27015 Half-Life 
+27374 
+27444 
+27665 
+27910 
+27960 QuakeIII 
+28000 
+28001 
+28002 
+28003 
+28004 
+28005 
+28006 
+28007 
+28008 
+30029 AOL Admin 
+30100 
+30101 
+30102 
+30103 
+30303 
+30464 
+31335 
+31337 Back Orifice 
+32000 
+32771 
+32777 rpc.walld 
+34555 
+40193 Novell 
+41524 arcserve discovery 
+45000 Cisco NetRanger postofficed 
+47624 directplaysrvr
+50505 
+52901 
+54321 
+61000 
+65301 
+9998 
+32773 rpc.ttdbserverd 
+32776 rpc.spray 
+32779 rpc.cmsd 
+38036 timestep 
