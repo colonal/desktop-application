@@ -1,7 +1,7 @@
 # c-chat
 Python App Download in Youtube  Desktop  PyQt5
 
-# [Website](https://www.colonal.codes/2020/08/YDownloader.html)
+# [Website](https://colonal-m.blogspot.com/2020/08/YDownloader.html)
 
 # [Youtube](https://youtu.be/Edtjfvw00WI)
 
